@@ -1,2 +1,2 @@
 # ModularityExampleR
-Module system starts from Java 9
+Module Project (Module system starts from Java 9)
